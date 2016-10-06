@@ -1,0 +1,6 @@
+[requires]
+libev/4.22@TigerZhang/testing
+
+[generators]
+cmake
+
